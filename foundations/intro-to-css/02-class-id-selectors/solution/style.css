@@ -1,0 +1,19 @@
+.shared {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.large {
+    font-size: 28px;
+}
+
+#id-4 {
+    background-color: #b6f2b6;
+    font-size: 24px;
+    font-weight: bold;
+}
